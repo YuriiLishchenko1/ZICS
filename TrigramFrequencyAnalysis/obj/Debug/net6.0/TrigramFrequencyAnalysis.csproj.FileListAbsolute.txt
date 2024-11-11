@@ -1,0 +1,15 @@
+D:\ЗІКС\lab4\TrigramFrequencyAnalysis\bin\Debug\net6.0\TrigramFrequencyAnalysis.exe
+D:\ЗІКС\lab4\TrigramFrequencyAnalysis\bin\Debug\net6.0\TrigramFrequencyAnalysis.deps.json
+D:\ЗІКС\lab4\TrigramFrequencyAnalysis\bin\Debug\net6.0\TrigramFrequencyAnalysis.runtimeconfig.json
+D:\ЗІКС\lab4\TrigramFrequencyAnalysis\bin\Debug\net6.0\TrigramFrequencyAnalysis.dll
+D:\ЗІКС\lab4\TrigramFrequencyAnalysis\bin\Debug\net6.0\TrigramFrequencyAnalysis.pdb
+D:\ЗІКС\lab4\TrigramFrequencyAnalysis\obj\Debug\net6.0\TrigramFrequencyAnalysis.csproj.AssemblyReference.cache
+D:\ЗІКС\lab4\TrigramFrequencyAnalysis\obj\Debug\net6.0\TrigramFrequencyAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЗІКС\lab4\TrigramFrequencyAnalysis\obj\Debug\net6.0\TrigramFrequencyAnalysis.AssemblyInfoInputs.cache
+D:\ЗІКС\lab4\TrigramFrequencyAnalysis\obj\Debug\net6.0\TrigramFrequencyAnalysis.AssemblyInfo.cs
+D:\ЗІКС\lab4\TrigramFrequencyAnalysis\obj\Debug\net6.0\TrigramFrequencyAnalysis.csproj.CoreCompileInputs.cache
+D:\ЗІКС\lab4\TrigramFrequencyAnalysis\obj\Debug\net6.0\TrigramFrequencyAnalysis.dll
+D:\ЗІКС\lab4\TrigramFrequencyAnalysis\obj\Debug\net6.0\refint\TrigramFrequencyAnalysis.dll
+D:\ЗІКС\lab4\TrigramFrequencyAnalysis\obj\Debug\net6.0\TrigramFrequencyAnalysis.pdb
+D:\ЗІКС\lab4\TrigramFrequencyAnalysis\obj\Debug\net6.0\TrigramFrequencyAnalysis.genruntimeconfig.cache
+D:\ЗІКС\lab4\TrigramFrequencyAnalysis\obj\Debug\net6.0\ref\TrigramFrequencyAnalysis.dll

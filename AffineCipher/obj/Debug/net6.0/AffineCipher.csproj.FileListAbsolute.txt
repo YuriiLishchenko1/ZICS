@@ -1,0 +1,15 @@
+D:\ЗІКС\lab4\AffineCipher\bin\Debug\net6.0\AffineCipher.exe
+D:\ЗІКС\lab4\AffineCipher\bin\Debug\net6.0\AffineCipher.deps.json
+D:\ЗІКС\lab4\AffineCipher\bin\Debug\net6.0\AffineCipher.runtimeconfig.json
+D:\ЗІКС\lab4\AffineCipher\bin\Debug\net6.0\AffineCipher.dll
+D:\ЗІКС\lab4\AffineCipher\bin\Debug\net6.0\AffineCipher.pdb
+D:\ЗІКС\lab4\AffineCipher\obj\Debug\net6.0\AffineCipher.csproj.AssemblyReference.cache
+D:\ЗІКС\lab4\AffineCipher\obj\Debug\net6.0\AffineCipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЗІКС\lab4\AffineCipher\obj\Debug\net6.0\AffineCipher.AssemblyInfoInputs.cache
+D:\ЗІКС\lab4\AffineCipher\obj\Debug\net6.0\AffineCipher.AssemblyInfo.cs
+D:\ЗІКС\lab4\AffineCipher\obj\Debug\net6.0\AffineCipher.csproj.CoreCompileInputs.cache
+D:\ЗІКС\lab4\AffineCipher\obj\Debug\net6.0\AffineCipher.dll
+D:\ЗІКС\lab4\AffineCipher\obj\Debug\net6.0\refint\AffineCipher.dll
+D:\ЗІКС\lab4\AffineCipher\obj\Debug\net6.0\AffineCipher.pdb
+D:\ЗІКС\lab4\AffineCipher\obj\Debug\net6.0\AffineCipher.genruntimeconfig.cache
+D:\ЗІКС\lab4\AffineCipher\obj\Debug\net6.0\ref\AffineCipher.dll

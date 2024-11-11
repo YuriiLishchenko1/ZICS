@@ -1,0 +1,15 @@
+D:\ЗІКС\lab4\LetterFrequencyAnalysis\bin\Debug\net6.0\LetterFrequencyAnalysis.exe
+D:\ЗІКС\lab4\LetterFrequencyAnalysis\bin\Debug\net6.0\LetterFrequencyAnalysis.deps.json
+D:\ЗІКС\lab4\LetterFrequencyAnalysis\bin\Debug\net6.0\LetterFrequencyAnalysis.runtimeconfig.json
+D:\ЗІКС\lab4\LetterFrequencyAnalysis\bin\Debug\net6.0\LetterFrequencyAnalysis.dll
+D:\ЗІКС\lab4\LetterFrequencyAnalysis\bin\Debug\net6.0\LetterFrequencyAnalysis.pdb
+D:\ЗІКС\lab4\LetterFrequencyAnalysis\obj\Debug\net6.0\LetterFrequencyAnalysis.csproj.AssemblyReference.cache
+D:\ЗІКС\lab4\LetterFrequencyAnalysis\obj\Debug\net6.0\LetterFrequencyAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЗІКС\lab4\LetterFrequencyAnalysis\obj\Debug\net6.0\LetterFrequencyAnalysis.AssemblyInfoInputs.cache
+D:\ЗІКС\lab4\LetterFrequencyAnalysis\obj\Debug\net6.0\LetterFrequencyAnalysis.AssemblyInfo.cs
+D:\ЗІКС\lab4\LetterFrequencyAnalysis\obj\Debug\net6.0\LetterFrequencyAnalysis.csproj.CoreCompileInputs.cache
+D:\ЗІКС\lab4\LetterFrequencyAnalysis\obj\Debug\net6.0\LetterFrequencyAnalysis.dll
+D:\ЗІКС\lab4\LetterFrequencyAnalysis\obj\Debug\net6.0\refint\LetterFrequencyAnalysis.dll
+D:\ЗІКС\lab4\LetterFrequencyAnalysis\obj\Debug\net6.0\LetterFrequencyAnalysis.pdb
+D:\ЗІКС\lab4\LetterFrequencyAnalysis\obj\Debug\net6.0\LetterFrequencyAnalysis.genruntimeconfig.cache
+D:\ЗІКС\lab4\LetterFrequencyAnalysis\obj\Debug\net6.0\ref\LetterFrequencyAnalysis.dll

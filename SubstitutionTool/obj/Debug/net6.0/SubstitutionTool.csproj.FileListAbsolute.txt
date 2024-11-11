@@ -1,0 +1,15 @@
+D:\ЗІКС\lab4\SubstitutionTool\bin\Debug\net6.0\SubstitutionTool.exe
+D:\ЗІКС\lab4\SubstitutionTool\bin\Debug\net6.0\SubstitutionTool.deps.json
+D:\ЗІКС\lab4\SubstitutionTool\bin\Debug\net6.0\SubstitutionTool.runtimeconfig.json
+D:\ЗІКС\lab4\SubstitutionTool\bin\Debug\net6.0\SubstitutionTool.dll
+D:\ЗІКС\lab4\SubstitutionTool\bin\Debug\net6.0\SubstitutionTool.pdb
+D:\ЗІКС\lab4\SubstitutionTool\obj\Debug\net6.0\SubstitutionTool.csproj.AssemblyReference.cache
+D:\ЗІКС\lab4\SubstitutionTool\obj\Debug\net6.0\SubstitutionTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЗІКС\lab4\SubstitutionTool\obj\Debug\net6.0\SubstitutionTool.AssemblyInfoInputs.cache
+D:\ЗІКС\lab4\SubstitutionTool\obj\Debug\net6.0\SubstitutionTool.AssemblyInfo.cs
+D:\ЗІКС\lab4\SubstitutionTool\obj\Debug\net6.0\SubstitutionTool.csproj.CoreCompileInputs.cache
+D:\ЗІКС\lab4\SubstitutionTool\obj\Debug\net6.0\SubstitutionTool.dll
+D:\ЗІКС\lab4\SubstitutionTool\obj\Debug\net6.0\refint\SubstitutionTool.dll
+D:\ЗІКС\lab4\SubstitutionTool\obj\Debug\net6.0\SubstitutionTool.pdb
+D:\ЗІКС\lab4\SubstitutionTool\obj\Debug\net6.0\SubstitutionTool.genruntimeconfig.cache
+D:\ЗІКС\lab4\SubstitutionTool\obj\Debug\net6.0\ref\SubstitutionTool.dll

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LetterFrequencyAnalysis", "LetterFrequencyAnalysis.csproj", "{96DD6C7B-1C4E-4865-A0B8-1AAA64B6983D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BigramFrequencyAnalysisProject", "..\BigramFrequencyAnalysisProject\BigramFrequencyAnalysisProject.csproj", "{390C098D-13CC-43B0-A918-EFFBF438FB22}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrigramFrequencyAnalysis", "..\TrigramFrequencyAnalysis\TrigramFrequencyAnalysis.csproj", "{7671F5B7-24F0-445C-BFF1-1CD2AC97F2C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AffineCipher", "..\AffineCipher\AffineCipher.csproj", "{7C09B2BE-3863-48B8-9C0D-5F61E5C88454}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubstitutionTool", "..\SubstitutionTool\SubstitutionTool.csproj", "{B23E51BB-C1CF-4882-BFE8-7F117E19DED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoAlphabeticSubstitution", "..\MonoAlphabeticSubstitution\MonoAlphabeticSubstitution.csproj", "{CE049B02-C2A5-438A-86C4-CE423DC3DB1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96DD6C7B-1C4E-4865-A0B8-1AAA64B6983D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DD6C7B-1C4E-4865-A0B8-1AAA64B6983D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DD6C7B-1C4E-4865-A0B8-1AAA64B6983D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DD6C7B-1C4E-4865-A0B8-1AAA64B6983D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{390C098D-13CC-43B0-A918-EFFBF438FB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{390C098D-13CC-43B0-A918-EFFBF438FB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{390C098D-13CC-43B0-A918-EFFBF438FB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{390C098D-13CC-43B0-A918-EFFBF438FB22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7671F5B7-24F0-445C-BFF1-1CD2AC97F2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7671F5B7-24F0-445C-BFF1-1CD2AC97F2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7671F5B7-24F0-445C-BFF1-1CD2AC97F2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7671F5B7-24F0-445C-BFF1-1CD2AC97F2C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C09B2BE-3863-48B8-9C0D-5F61E5C88454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C09B2BE-3863-48B8-9C0D-5F61E5C88454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C09B2BE-3863-48B8-9C0D-5F61E5C88454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C09B2BE-3863-48B8-9C0D-5F61E5C88454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23E51BB-C1CF-4882-BFE8-7F117E19DED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23E51BB-C1CF-4882-BFE8-7F117E19DED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23E51BB-C1CF-4882-BFE8-7F117E19DED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23E51BB-C1CF-4882-BFE8-7F117E19DED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE049B02-C2A5-438A-86C4-CE423DC3DB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE049B02-C2A5-438A-86C4-CE423DC3DB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE049B02-C2A5-438A-86C4-CE423DC3DB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE049B02-C2A5-438A-86C4-CE423DC3DB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79A88F0E-5827-48B6-AF53-30EE71C58ACE}
+	EndGlobalSection
+EndGlobal

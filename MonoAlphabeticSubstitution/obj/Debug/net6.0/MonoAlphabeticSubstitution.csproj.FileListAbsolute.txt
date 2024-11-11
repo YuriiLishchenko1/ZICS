@@ -1,0 +1,15 @@
+D:\ЗІКС\lab4\MonoAlphabeticSubstitution\bin\Debug\net6.0\MonoAlphabeticSubstitution.exe
+D:\ЗІКС\lab4\MonoAlphabeticSubstitution\bin\Debug\net6.0\MonoAlphabeticSubstitution.deps.json
+D:\ЗІКС\lab4\MonoAlphabeticSubstitution\bin\Debug\net6.0\MonoAlphabeticSubstitution.runtimeconfig.json
+D:\ЗІКС\lab4\MonoAlphabeticSubstitution\bin\Debug\net6.0\MonoAlphabeticSubstitution.dll
+D:\ЗІКС\lab4\MonoAlphabeticSubstitution\bin\Debug\net6.0\MonoAlphabeticSubstitution.pdb
+D:\ЗІКС\lab4\MonoAlphabeticSubstitution\obj\Debug\net6.0\MonoAlphabeticSubstitution.csproj.AssemblyReference.cache
+D:\ЗІКС\lab4\MonoAlphabeticSubstitution\obj\Debug\net6.0\MonoAlphabeticSubstitution.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЗІКС\lab4\MonoAlphabeticSubstitution\obj\Debug\net6.0\MonoAlphabeticSubstitution.AssemblyInfoInputs.cache
+D:\ЗІКС\lab4\MonoAlphabeticSubstitution\obj\Debug\net6.0\MonoAlphabeticSubstitution.AssemblyInfo.cs
+D:\ЗІКС\lab4\MonoAlphabeticSubstitution\obj\Debug\net6.0\MonoAlphabeticSubstitution.csproj.CoreCompileInputs.cache
+D:\ЗІКС\lab4\MonoAlphabeticSubstitution\obj\Debug\net6.0\MonoAlphabeticSubstitution.dll
+D:\ЗІКС\lab4\MonoAlphabeticSubstitution\obj\Debug\net6.0\refint\MonoAlphabeticSubstitution.dll
+D:\ЗІКС\lab4\MonoAlphabeticSubstitution\obj\Debug\net6.0\MonoAlphabeticSubstitution.pdb
+D:\ЗІКС\lab4\MonoAlphabeticSubstitution\obj\Debug\net6.0\MonoAlphabeticSubstitution.genruntimeconfig.cache
+D:\ЗІКС\lab4\MonoAlphabeticSubstitution\obj\Debug\net6.0\ref\MonoAlphabeticSubstitution.dll
